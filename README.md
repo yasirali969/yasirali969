@@ -25,9 +25,6 @@
 <a href="https://linkedin.com/in/yasir-ali" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-7B61FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://mastodon.social/@YasirAliSajjadAhmad" target="_blank">
-  <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/>
-</a>
 <a href="mailto:yasirali.bscssaif25@iba-suk.edu.pk">
   <img src="https://img.shields.io/badge/Email-9146FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
