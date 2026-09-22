@@ -22,13 +22,10 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/yasir-ali-194992314/" target="_blank">
+<a href="https://www.linkedin.com/in/yasir-ali-194992314/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-7B61FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://mastodon.social/@YasirAliSajjadAhmad" target="_blank">
-  <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/>
-</a>
-<a href="mailto:yasirali.bscssaif25@iba-suk.edu.pk">
+<a href="mailto:yasirali.bscssaif25@iba-suk.edu.pk" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-9146FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
