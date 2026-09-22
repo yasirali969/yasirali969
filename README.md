@@ -22,7 +22,7 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/yasir-ali" target="_blank">
+<a href="[https://linkedin.com/in/yasir-ali](https://www.linkedin.com/in/yasir-ali-194992314/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-7B61FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:yasirali.bscssaif25@iba-suk.edu.pk">
