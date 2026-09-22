@@ -22,8 +22,11 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="[https://linkedin.com/in/yasir-ali](https://www.linkedin.com/in/yasir-ali-194992314/)" target="_blank">
+<a href="https://www.linkedin.com/in/yasir-ali-194992314/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-7B61FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://mastodon.social/@YasirAliSajjadAhmad" target="_blank">
+  <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/>
 </a>
 <a href="mailto:yasirali.bscssaif25@iba-suk.edu.pk">
   <img src="https://img.shields.io/badge/Email-9146FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -67,6 +70,11 @@
   <img src="https://streak-stats.demolab.com/?user=yasirali969&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yasirali969&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
